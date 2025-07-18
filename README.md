@@ -58,7 +58,4 @@ Tenho mais de 3 anos de experiência na área de Business Intelligence, com hist
 | Dashboard Compras    | Compras          | Análise de preço, ranking e performance de fornecedores |
 | Dashboard Projetos   | Projetos         | Gestão de cronograma, curva S e workload |
 
-## 📫 Contato
-- ✉️ isabela.msteil@gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/isabelasteil)
 
